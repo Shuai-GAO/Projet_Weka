@@ -1,0 +1,1026 @@
+{
+  "ca01": {
+    "verbs_present_tense": 79,
+    "verbs_past_tense": 65
+  },
+  "ca02": {
+    "verbs_present_tense": 56,
+    "verbs_past_tense": 44
+  },
+  "ca03": {
+    "verbs_present_tense": 51,
+    "verbs_past_tense": 65
+  },
+  "ca05": {
+    "verbs_present_tense": 103,
+    "verbs_past_tense": 60
+  },
+  "ca06": {
+    "verbs_present_tense": 81,
+    "verbs_past_tense": 57
+  },
+  "ca07": {
+    "verbs_present_tense": 91,
+    "verbs_past_tense": 39
+  },
+  "ca08": {
+    "verbs_present_tense": 115,
+    "verbs_past_tense": 21
+  },
+  "ca09": {
+    "verbs_present_tense": 52,
+    "verbs_past_tense": 68
+  },
+  "ca10": {
+    "verbs_present_tense": 97,
+    "verbs_past_tense": 63
+  },
+  "ca11": {
+    "verbs_present_tense": 28,
+    "verbs_past_tense": 45
+  },
+  "ca12": {
+    "verbs_present_tense": 67,
+    "verbs_past_tense": 63
+  },
+  "ca13": {
+    "verbs_present_tense": 43,
+    "verbs_past_tense": 71
+  },
+  "ca14": {
+    "verbs_present_tense": 51,
+    "verbs_past_tense": 57
+  },
+  "ca17": {
+    "verbs_present_tense": 72,
+    "verbs_past_tense": 32
+  },
+  "ca18": {
+    "verbs_present_tense": 93,
+    "verbs_past_tense": 23
+  },
+  "ca20": {
+    "verbs_present_tense": 39,
+    "verbs_past_tense": 97
+  },
+  "ca21": {
+    "verbs_present_tense": 36,
+    "verbs_past_tense": 98
+  },
+  "ca22": {
+    "verbs_present_tense": 53,
+    "verbs_past_tense": 63
+  },
+  "ca23": {
+    "verbs_present_tense": 40,
+    "verbs_past_tense": 63
+  },
+  "ca24": {
+    "verbs_present_tense": 38,
+    "verbs_past_tense": 89
+  },
+  "ca25": {
+    "verbs_present_tense": 39,
+    "verbs_past_tense": 78
+  },
+  "ca26": {
+    "verbs_present_tense": 69,
+    "verbs_past_tense": 49
+  },
+  "ca27": {
+    "verbs_present_tense": 67,
+    "verbs_past_tense": 56
+  },
+  "ca29": {
+    "verbs_present_tense": 99,
+    "verbs_past_tense": 21
+  },
+  "ca30": {
+    "verbs_present_tense": 91,
+    "verbs_past_tense": 44
+  },
+  "ca31": {
+    "verbs_present_tense": 79,
+    "verbs_past_tense": 18
+  },
+  "ca34": {
+    "verbs_present_tense": 60,
+    "verbs_past_tense": 72
+  },
+  "ca35": {
+    "verbs_present_tense": 141,
+    "verbs_past_tense": 12
+  },
+  "ca36": {
+    "verbs_present_tense": 81,
+    "verbs_past_tense": 35
+  },
+  "ca37": {
+    "verbs_present_tense": 41,
+    "verbs_past_tense": 71
+  },
+  "ca39": {
+    "verbs_present_tense": 92,
+    "verbs_past_tense": 45
+  },
+  "ca41": {
+    "verbs_present_tense": 36,
+    "verbs_past_tense": 76
+  },
+  "ca42": {
+    "verbs_present_tense": 30,
+    "verbs_past_tense": 79
+  },
+  "ca43": {
+    "verbs_present_tense": 123,
+    "verbs_past_tense": 19
+  },
+  "ca44": {
+    "verbs_present_tense": 121,
+    "verbs_past_tense": 11
+  },
+  "cb01": {
+    "verbs_present_tense": 97,
+    "verbs_past_tense": 33
+  },
+  "cb03": {
+    "verbs_present_tense": 66,
+    "verbs_past_tense": 71
+  },
+  "cb04": {
+    "verbs_present_tense": 102,
+    "verbs_past_tense": 28
+  },
+  "cb05": {
+    "verbs_present_tense": 115,
+    "verbs_past_tense": 24
+  },
+  "cb06": {
+    "verbs_present_tense": 103,
+    "verbs_past_tense": 26
+  },
+  "cb07": {
+    "verbs_present_tense": 116,
+    "verbs_past_tense": 17
+  },
+  "cb08": {
+    "verbs_present_tense": 127,
+    "verbs_past_tense": 68
+  },
+  "cb09": {
+    "verbs_present_tense": 87,
+    "verbs_past_tense": 64
+  },
+  "cb10": {
+    "verbs_present_tense": 141,
+    "verbs_past_tense": 41
+  },
+  "cb11": {
+    "verbs_present_tense": 64,
+    "verbs_past_tense": 32
+  },
+  "cb12": {
+    "verbs_present_tense": 84,
+    "verbs_past_tense": 38
+  },
+  "cb13": {
+    "verbs_present_tense": 134,
+    "verbs_past_tense": 24
+  },
+  "cb14": {
+    "verbs_present_tense": 123,
+    "verbs_past_tense": 29
+  },
+  "cb15": {
+    "verbs_present_tense": 129,
+    "verbs_past_tense": 20
+  },
+  "cb16": {
+    "verbs_present_tense": 96,
+    "verbs_past_tense": 19
+  },
+  "cb17": {
+    "verbs_present_tense": 110,
+    "verbs_past_tense": 28
+  },
+  "cb19": {
+    "verbs_present_tense": 111,
+    "verbs_past_tense": 14
+  },
+  "cb20": {
+    "verbs_present_tense": 141,
+    "verbs_past_tense": 24
+  },
+  "cb22": {
+    "verbs_present_tense": 108,
+    "verbs_past_tense": 40
+  },
+  "cb24": {
+    "verbs_present_tense": 79,
+    "verbs_past_tense": 37
+  },
+  "cb25": {
+    "verbs_present_tense": 74,
+    "verbs_past_tense": 36
+  },
+  "cb27": {
+    "verbs_present_tense": 94,
+    "verbs_past_tense": 48
+  },
+  "cc01": {
+    "verbs_present_tense": 106,
+    "verbs_past_tense": 31
+  },
+  "cc03": {
+    "verbs_present_tense": 92,
+    "verbs_past_tense": 55
+  },
+  "cc04": {
+    "verbs_present_tense": 110,
+    "verbs_past_tense": 41
+  },
+  "cc05": {
+    "verbs_present_tense": 105,
+    "verbs_past_tense": 21
+  },
+  "cc07": {
+    "verbs_present_tense": 86,
+    "verbs_past_tense": 60
+  },
+  "cc08": {
+    "verbs_present_tense": 81,
+    "verbs_past_tense": 65
+  },
+  "cc09": {
+    "verbs_present_tense": 93,
+    "verbs_past_tense": 32
+  },
+  "cc10": {
+    "verbs_present_tense": 88,
+    "verbs_past_tense": 33
+  },
+  "cc11": {
+    "verbs_present_tense": 84,
+    "verbs_past_tense": 49
+  },
+  "cc12": {
+    "verbs_present_tense": 82,
+    "verbs_past_tense": 32
+  },
+  "cc13": {
+    "verbs_present_tense": 110,
+    "verbs_past_tense": 24
+  },
+  "cc14": {
+    "verbs_present_tense": 94,
+    "verbs_past_tense": 33
+  },
+  "cc15": {
+    "verbs_present_tense": 99,
+    "verbs_past_tense": 3
+  },
+  "cc16": {
+    "verbs_present_tense": 124,
+    "verbs_past_tense": 29
+  },
+  "ck01": {
+    "verbs_present_tense": 49,
+    "verbs_past_tense": 129
+  },
+  "ck04": {
+    "verbs_present_tense": 53,
+    "verbs_past_tense": 142
+  },
+  "ck05": {
+    "verbs_present_tense": 36,
+    "verbs_past_tense": 176
+  },
+  "ck06": {
+    "verbs_present_tense": 28,
+    "verbs_past_tense": 92
+  },
+  "ck07": {
+    "verbs_present_tense": 48,
+    "verbs_past_tense": 105
+  },
+  "ck08": {
+    "verbs_present_tense": 92,
+    "verbs_past_tense": 82
+  },
+  "ck09": {
+    "verbs_present_tense": 39,
+    "verbs_past_tense": 121
+  },
+  "ck11": {
+    "verbs_present_tense": 43,
+    "verbs_past_tense": 111
+  },
+  "ck12": {
+    "verbs_present_tense": 40,
+    "verbs_past_tense": 106
+  },
+  "ck13": {
+    "verbs_present_tense": 66,
+    "verbs_past_tense": 128
+  },
+  "ck14": {
+    "verbs_present_tense": 63,
+    "verbs_past_tense": 94
+  },
+  "ck15": {
+    "verbs_present_tense": 62,
+    "verbs_past_tense": 111
+  },
+  "ck17": {
+    "verbs_present_tense": 75,
+    "verbs_past_tense": 83
+  },
+  "ck18": {
+    "verbs_present_tense": 82,
+    "verbs_past_tense": 135
+  },
+  "ck19": {
+    "verbs_present_tense": 83,
+    "verbs_past_tense": 139
+  },
+  "ck21": {
+    "verbs_present_tense": 44,
+    "verbs_past_tense": 86
+  },
+  "ck23": {
+    "verbs_present_tense": 41,
+    "verbs_past_tense": 87
+  },
+  "ck24": {
+    "verbs_present_tense": 72,
+    "verbs_past_tense": 142
+  },
+  "ck25": {
+    "verbs_present_tense": 33,
+    "verbs_past_tense": 105
+  },
+  "ck26": {
+    "verbs_present_tense": 60,
+    "verbs_past_tense": 157
+  },
+  "ck27": {
+    "verbs_present_tense": 41,
+    "verbs_past_tense": 84
+  },
+  "ck29": {
+    "verbs_present_tense": 32,
+    "verbs_past_tense": 112
+  },
+  "cl01": {
+    "verbs_present_tense": 88,
+    "verbs_past_tense": 101
+  },
+  "cl02": {
+    "verbs_present_tense": 77,
+    "verbs_past_tense": 120
+  },
+  "cl03": {
+    "verbs_present_tense": 84,
+    "verbs_past_tense": 93
+  },
+  "cl04": {
+    "verbs_present_tense": 36,
+    "verbs_past_tense": 126
+  },
+  "cl05": {
+    "verbs_present_tense": 79,
+    "verbs_past_tense": 82
+  },
+  "cl06": {
+    "verbs_present_tense": 45,
+    "verbs_past_tense": 118
+  },
+  "cl07": {
+    "verbs_present_tense": 63,
+    "verbs_past_tense": 92
+  },
+  "cl10": {
+    "verbs_present_tense": 76,
+    "verbs_past_tense": 154
+  },
+  "cl12": {
+    "verbs_present_tense": 62,
+    "verbs_past_tense": 101
+  },
+  "cl13": {
+    "verbs_present_tense": 73,
+    "verbs_past_tense": 103
+  },
+  "cl14": {
+    "verbs_present_tense": 70,
+    "verbs_past_tense": 134
+  },
+  "cl15": {
+    "verbs_present_tense": 62,
+    "verbs_past_tense": 110
+  },
+  "cl17": {
+    "verbs_present_tense": 48,
+    "verbs_past_tense": 74
+  },
+  "cl18": {
+    "verbs_present_tense": 79,
+    "verbs_past_tense": 158
+  },
+  "cl20": {
+    "verbs_present_tense": 88,
+    "verbs_past_tense": 97
+  },
+  "cl21": {
+    "verbs_present_tense": 45,
+    "verbs_past_tense": 92
+  },
+  "cl22": {
+    "verbs_present_tense": 107,
+    "verbs_past_tense": 71
+  },
+  "cl23": {
+    "verbs_present_tense": 62,
+    "verbs_past_tense": 121
+  },
+  "cl24": {
+    "verbs_present_tense": 85,
+    "verbs_past_tense": 106
+  },
+  "cm01": {
+    "verbs_present_tense": 73,
+    "verbs_past_tense": 110
+  },
+  "cm02": {
+    "verbs_present_tense": 68,
+    "verbs_past_tense": 110
+  },
+  "cm03": {
+    "verbs_present_tense": 92,
+    "verbs_past_tense": 118
+  },
+  "cm04": {
+    "verbs_present_tense": 92,
+    "verbs_past_tense": 91
+  },
+  "cm05": {
+    "verbs_present_tense": 47,
+    "verbs_past_tense": 84
+  },
+  "cp01": {
+    "verbs_present_tense": 40,
+    "verbs_past_tense": 102
+  },
+  "cp02": {
+    "verbs_present_tense": 92,
+    "verbs_past_tense": 87
+  },
+  "cp04": {
+    "verbs_present_tense": 51,
+    "verbs_past_tense": 124
+  },
+  "cp05": {
+    "verbs_present_tense": 65,
+    "verbs_past_tense": 138
+  },
+  "cp06": {
+    "verbs_present_tense": 88,
+    "verbs_past_tense": 112
+  },
+  "cp07": {
+    "verbs_present_tense": 89,
+    "verbs_past_tense": 117
+  },
+  "cp08": {
+    "verbs_present_tense": 44,
+    "verbs_past_tense": 128
+  },
+  "cp09": {
+    "verbs_present_tense": 94,
+    "verbs_past_tense": 86
+  },
+  "cp10": {
+    "verbs_present_tense": 81,
+    "verbs_past_tense": 104
+  },
+  "cp11": {
+    "verbs_present_tense": 67,
+    "verbs_past_tense": 108
+  },
+  "cp12": {
+    "verbs_present_tense": 80,
+    "verbs_past_tense": 126
+  },
+  "cp13": {
+    "verbs_present_tense": 42,
+    "verbs_past_tense": 66
+  },
+  "cp14": {
+    "verbs_present_tense": 80,
+    "verbs_past_tense": 124
+  },
+  "cp15": {
+    "verbs_present_tense": 69,
+    "verbs_past_tense": 137
+  },
+  "cp16": {
+    "verbs_present_tense": 75,
+    "verbs_past_tense": 96
+  },
+  "cp18": {
+    "verbs_present_tense": 94,
+    "verbs_past_tense": 138
+  },
+  "cp19": {
+    "verbs_present_tense": 90,
+    "verbs_past_tense": 126
+  },
+  "cp20": {
+    "verbs_present_tense": 53,
+    "verbs_past_tense": 151
+  },
+  "cp21": {
+    "verbs_present_tense": 67,
+    "verbs_past_tense": 107
+  },
+  "cp22": {
+    "verbs_present_tense": 59,
+    "verbs_past_tense": 134
+  },
+  "cp23": {
+    "verbs_present_tense": 56,
+    "verbs_past_tense": 112
+  },
+  "cp24": {
+    "verbs_present_tense": 87,
+    "verbs_past_tense": 120
+  },
+  "cp26": {
+    "verbs_present_tense": 41,
+    "verbs_past_tense": 139
+  },
+  "cp28": {
+    "verbs_present_tense": 45,
+    "verbs_past_tense": 124
+  },
+  "cp29": {
+    "verbs_present_tense": 67,
+    "verbs_past_tense": 77
+  },
+  "cj01": {
+    "verbs_present_tense": 86,
+    "verbs_past_tense": 30
+  },
+  "cj02": {
+    "verbs_present_tense": 42,
+    "verbs_past_tense": 69
+  },
+  "cj03": {
+    "verbs_present_tense": 134,
+    "verbs_past_tense": 39
+  },
+  "cj04": {
+    "verbs_present_tense": 83,
+    "verbs_past_tense": 54
+  },
+  "cj05": {
+    "verbs_present_tense": 124,
+    "verbs_past_tense": 19
+  },
+  "cj06": {
+    "verbs_present_tense": 31,
+    "verbs_past_tense": 75
+  },
+  "cj07": {
+    "verbs_present_tense": 97,
+    "verbs_past_tense": 13
+  },
+  "cj08": {
+    "verbs_present_tense": 107,
+    "verbs_past_tense": 36
+  },
+  "cj10": {
+    "verbs_present_tense": 120,
+    "verbs_past_tense": 9
+  },
+  "cj11": {
+    "verbs_present_tense": 105,
+    "verbs_past_tense": 19
+  },
+  "cj12": {
+    "verbs_present_tense": 90,
+    "verbs_past_tense": 30
+  },
+  "cj13": {
+    "verbs_present_tense": 51,
+    "verbs_past_tense": 31
+  },
+  "cj14": {
+    "verbs_present_tense": 105,
+    "verbs_past_tense": 16
+  },
+  "cj15": {
+    "verbs_present_tense": 6,
+    "verbs_past_tense": 114
+  },
+  "cj17": {
+    "verbs_present_tense": 57,
+    "verbs_past_tense": 13
+  },
+  "cj18": {
+    "verbs_present_tense": 176,
+    "verbs_past_tense": 1
+  },
+  "cj21": {
+    "verbs_present_tense": 109,
+    "verbs_past_tense": 6
+  },
+  "cj22": {
+    "verbs_present_tense": 109,
+    "verbs_past_tense": 4
+  },
+  "cj23": {
+    "verbs_present_tense": 94,
+    "verbs_past_tense": 2
+  },
+  "cj24": {
+    "verbs_present_tense": 81,
+    "verbs_past_tense": 17
+  },
+  "cj26": {
+    "verbs_present_tense": 55,
+    "verbs_past_tense": 57
+  },
+  "cj27": {
+    "verbs_present_tense": 65,
+    "verbs_past_tense": 84
+  },
+  "cj29": {
+    "verbs_present_tense": 68,
+    "verbs_past_tense": 61
+  },
+  "cj31": {
+    "verbs_present_tense": 89,
+    "verbs_past_tense": 56
+  },
+  "cj32": {
+    "verbs_present_tense": 117,
+    "verbs_past_tense": 15
+  },
+  "cj33": {
+    "verbs_present_tense": 201,
+    "verbs_past_tense": 28
+  },
+  "cj34": {
+    "verbs_present_tense": 142,
+    "verbs_past_tense": 8
+  },
+  "cj35": {
+    "verbs_present_tense": 102,
+    "verbs_past_tense": 19
+  },
+  "cj36": {
+    "verbs_present_tense": 48,
+    "verbs_past_tense": 77
+  },
+  "cj38": {
+    "verbs_present_tense": 114,
+    "verbs_past_tense": 17
+  },
+  "cj39": {
+    "verbs_present_tense": 112,
+    "verbs_past_tense": 13
+  },
+  "cj40": {
+    "verbs_present_tense": 71,
+    "verbs_past_tense": 6
+  },
+  "cj41": {
+    "verbs_present_tense": 112,
+    "verbs_past_tense": 2
+  },
+  "cj42": {
+    "verbs_present_tense": 36,
+    "verbs_past_tense": 104
+  },
+  "cj43": {
+    "verbs_present_tense": 65,
+    "verbs_past_tense": 40
+  },
+  "cj44": {
+    "verbs_present_tense": 71,
+    "verbs_past_tense": 24
+  },
+  "cj45": {
+    "verbs_present_tense": 45,
+    "verbs_past_tense": 101
+  },
+  "cj46": {
+    "verbs_present_tense": 101,
+    "verbs_past_tense": 24
+  },
+  "cj47": {
+    "verbs_present_tense": 117,
+    "verbs_past_tense": 15
+  },
+  "cj48": {
+    "verbs_present_tense": 99,
+    "verbs_past_tense": 10
+  },
+  "cj49": {
+    "verbs_present_tense": 112,
+    "verbs_past_tense": 12
+  },
+  "cj50": {
+    "verbs_present_tense": 93,
+    "verbs_past_tense": 14
+  },
+  "cj51": {
+    "verbs_present_tense": 117,
+    "verbs_past_tense": 13
+  },
+  "cj52": {
+    "verbs_present_tense": 157,
+    "verbs_past_tense": 79
+  },
+  "cj53": {
+    "verbs_present_tense": 76,
+    "verbs_past_tense": 56
+  },
+  "cj58": {
+    "verbs_present_tense": 39,
+    "verbs_past_tense": 74
+  },
+  "cj59": {
+    "verbs_present_tense": 63,
+    "verbs_past_tense": 58
+  },
+  "cj60": {
+    "verbs_present_tense": 107,
+    "verbs_past_tense": 28
+  },
+  "cj61": {
+    "verbs_present_tense": 64,
+    "verbs_past_tense": 84
+  },
+  "cj62": {
+    "verbs_present_tense": 72,
+    "verbs_past_tense": 50
+  },
+  "cj67": {
+    "verbs_present_tense": 108,
+    "verbs_past_tense": 43
+  },
+  "cj68": {
+    "verbs_present_tense": 73,
+    "verbs_past_tense": 13
+  },
+  "cj69": {
+    "verbs_present_tense": 119,
+    "verbs_past_tense": 32
+  },
+  "cj70": {
+    "verbs_present_tense": 25,
+    "verbs_past_tense": 72
+  },
+  "cj71": {
+    "verbs_present_tense": 141,
+    "verbs_past_tense": 10
+  },
+  "cj72": {
+    "verbs_present_tense": 81,
+    "verbs_past_tense": 30
+  },
+  "cj73": {
+    "verbs_present_tense": 105,
+    "verbs_past_tense": 33
+  },
+  "cj74": {
+    "verbs_present_tense": 95,
+    "verbs_past_tense": 5
+  },
+  "cj75": {
+    "verbs_present_tense": 114,
+    "verbs_past_tense": 10
+  },
+  "cj76": {
+    "verbs_present_tense": 110,
+    "verbs_past_tense": 20
+  },
+  "cj77": {
+    "verbs_present_tense": 111,
+    "verbs_past_tense": 14
+  },
+  "cj78": {
+    "verbs_present_tense": 97,
+    "verbs_past_tense": 8
+  },
+  "cj79": {
+    "verbs_present_tense": 125,
+    "verbs_past_tense": 10
+  },
+  "cj80": {
+    "verbs_present_tense": 141,
+    "verbs_past_tense": 2
+  },
+  "cc06": {
+    "verbs_present_tense": 94,
+    "verbs_past_tense": 33
+  },
+  "ca32": {
+    "verbs_present_tense": 95,
+    "verbs_past_tense": 39
+  },
+  "ca15": {
+    "verbs_present_tense": 65,
+    "verbs_past_tense": 65
+  },
+  "ca19": {
+    "verbs_present_tense": 65,
+    "verbs_past_tense": 79
+  },
+  "cb26": {
+    "verbs_present_tense": 100,
+    "verbs_past_tense": 24
+  },
+  "ca38": {
+    "verbs_present_tense": 25,
+    "verbs_past_tense": 91
+  },
+  "cc02": {
+    "verbs_present_tense": 71,
+    "verbs_past_tense": 27
+  },
+  "ca33": {
+    "verbs_present_tense": 67,
+    "verbs_past_tense": 47
+  },
+  "cb02": {
+    "verbs_present_tense": 107,
+    "verbs_past_tense": 23
+  },
+  "cb21": {
+    "verbs_present_tense": 110,
+    "verbs_past_tense": 19
+  },
+  "ca28": {
+    "verbs_present_tense": 70,
+    "verbs_past_tense": 25
+  },
+  "cb18": {
+    "verbs_present_tense": 122,
+    "verbs_past_tense": 18
+  },
+  "cc17": {
+    "verbs_present_tense": 104,
+    "verbs_past_tense": 7
+  },
+  "ca04": {
+    "verbs_present_tense": 79,
+    "verbs_past_tense": 50
+  },
+  "ca16": {
+    "verbs_present_tense": 79,
+    "verbs_past_tense": 9
+  },
+  "cb23": {
+    "verbs_present_tense": 120,
+    "verbs_past_tense": 32
+  },
+  "ca40": {
+    "verbs_present_tense": 50,
+    "verbs_past_tense": 75
+  },
+  "cl11": {
+    "verbs_present_tense": 77,
+    "verbs_past_tense": 102
+  },
+  "cm06": {
+    "verbs_present_tense": 63,
+    "verbs_past_tense": 116
+  },
+  "ck28": {
+    "verbs_present_tense": 68,
+    "verbs_past_tense": 128
+  },
+  "ck16": {
+    "verbs_present_tense": 22,
+    "verbs_past_tense": 96
+  },
+  "cl08": {
+    "verbs_present_tense": 132,
+    "verbs_past_tense": 80
+  },
+  "cp27": {
+    "verbs_present_tense": 85,
+    "verbs_past_tense": 97
+  },
+  "ck03": {
+    "verbs_present_tense": 76,
+    "verbs_past_tense": 121
+  },
+  "ck22": {
+    "verbs_present_tense": 68,
+    "verbs_past_tense": 121
+  },
+  "cp17": {
+    "verbs_present_tense": 59,
+    "verbs_past_tense": 138
+  },
+  "ck10": {
+    "verbs_present_tense": 59,
+    "verbs_past_tense": 92
+  },
+  "ck02": {
+    "verbs_present_tense": 45,
+    "verbs_past_tense": 93
+  },
+  "ck20": {
+    "verbs_present_tense": 62,
+    "verbs_past_tense": 109
+  },
+  "cl16": {
+    "verbs_present_tense": 76,
+    "verbs_past_tense": 106
+  },
+  "cl09": {
+    "verbs_present_tense": 81,
+    "verbs_past_tense": 134
+  },
+  "cp03": {
+    "verbs_present_tense": 70,
+    "verbs_past_tense": 113
+  },
+  "cl19": {
+    "verbs_present_tense": 17,
+    "verbs_past_tense": 86
+  },
+  "cp25": {
+    "verbs_present_tense": 31,
+    "verbs_past_tense": 122
+  },
+  "cj09": {
+    "verbs_present_tense": 22,
+    "verbs_past_tense": 108
+  },
+  "cj65": {
+    "verbs_present_tense": 101,
+    "verbs_past_tense": 45
+  },
+  "cj37": {
+    "verbs_present_tense": 35,
+    "verbs_past_tense": 85
+  },
+  "cj30": {
+    "verbs_present_tense": 83,
+    "verbs_past_tense": 120
+  },
+  "cj63": {
+    "verbs_present_tense": 159,
+    "verbs_past_tense": 16
+  },
+  "cj20": {
+    "verbs_present_tense": 109,
+    "verbs_past_tense": 8
+  },
+  "cj56": {
+    "verbs_present_tense": 29,
+    "verbs_past_tense": 83
+  },
+  "cj66": {
+    "verbs_present_tense": 102,
+    "verbs_past_tense": 55
+  },
+  "cj16": {
+    "verbs_present_tense": 13,
+    "verbs_past_tense": 88
+  },
+  "cj64": {
+    "verbs_present_tense": 96,
+    "verbs_past_tense": 7
+  },
+  "cj55": {
+    "verbs_present_tense": 26,
+    "verbs_past_tense": 72
+  },
+  "cj54": {
+    "verbs_present_tense": 62,
+    "verbs_past_tense": 66
+  },
+  "cj25": {
+    "verbs_present_tense": 89,
+    "verbs_past_tense": 6
+  },
+  "cj19": {
+    "verbs_present_tense": 116,
+    "verbs_past_tense": 12
+  },
+  "cj28": {
+    "verbs_present_tense": 58,
+    "verbs_past_tense": 120
+  },
+  "cj57": {
+    "verbs_present_tense": 118,
+    "verbs_past_tense": 29
+  }
+}
